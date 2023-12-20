@@ -2,12 +2,12 @@
 
 ## 1. Sort Descending
 ### public static void sortDescending(int[] arr)
-Takes array of integers as a perimeter and sorts the array in a descending order.
+Takes array of integers as a perimeter and sorts the array in a descending order. // You can pass array of integers to sort in descending order
 
 
 ## 2. Calculate Statistics
 ### public static double[] calculateStatistics(int[] arr)
-Takes array of intergers as a perimeter and calculates the statsitics as proposed in the orginal question and returns it in the form of array of doubles named result.
+Takes array of intergers as a perimeter and calculates the statsitics as proposed in the orginal question and returns it in the form of array of doubles named result. // You can pass array of integers to calculate
 
 
 ## 3. Matrix Multiplication 
@@ -19,6 +19,6 @@ Takes multiple perimeters:
 4. integer named columnsA
 5. integer named columsB
 
-It multiplies the both matrixes if it can be multiplied and returns the result of the multiplication of matrixA and matrixB named resultMatrix. 
+It multiplies the both matrixes if it can be multiplied and returns the result of the multiplication of matrixA and matrixB named resultMatrix.
 
-
+// You can pass the perimeters defined above.
