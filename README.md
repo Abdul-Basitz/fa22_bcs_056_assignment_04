@@ -1,4 +1,4 @@
-# Methods
+# Methods / Documentation
 
 ## 1. Sort Descending
 ### public static void sortDescending(int[] arr)
